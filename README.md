@@ -44,4 +44,6 @@ Desde el directorio del proyecto:
 + git add .
 + git commit -m "Primer commit"
 + git remote add origin https://github.com/LuisAlbertoB/Resume3.git
-+ 
++ git remote set-url origin https://LuisAlbertoB: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@github.com/LuisAlbertoB/Resume3.git
++ git config --global credential.helper store
++ git push -u origin master
