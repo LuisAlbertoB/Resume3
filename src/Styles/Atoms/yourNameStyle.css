@@ -1,0 +1,17 @@
+.your-name {
+    font-family: 'Monaco', monospace;
+    font-size: 3rem;
+    font-weight: bold; 
+    color: #000000; 
+    text-align: center; 
+    margin: 0; 
+    padding: 20px 0; 
+  }
+  
+  
+  @media (max-width: 768px) {
+    .your-name {
+      font-size: 2rem;
+    }
+  }
+  

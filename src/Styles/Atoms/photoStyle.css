@@ -1,0 +1,14 @@
+.photo {
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+  }
+  
+  /* Estilos responsive */
+  @media (max-width: 768px) {
+    .photo {
+      width: 80%; 
+    }
+  }
+  

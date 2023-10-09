@@ -1,0 +1,27 @@
+.contact-container {
+  padding-top: 20%; 
+    width: 20%;
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .link {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    color: #fff; 
+    text-decoration: none; 
+    transform: rotate(-90deg); 
+    white-space: nowrap; 
+  }
+  
+
+  @media (max-width: 768px) {
+    .link {
+      font-size: 1rem;
+    }
+  }
+  

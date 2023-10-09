@@ -1,0 +1,16 @@
+.txt-type-1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem; /* Tamaño de la fuente */
+    color: #333; /* Color del texto (puedes cambiarlo según tu preferencia) */
+    margin: 0; /* Eliminar márgenes para evitar espacios no deseados */
+    padding: 10px 0; /* Espaciado interno superior e inferior */
+    text-align: center; /* Alinear el texto al centro */
+  }
+  
+  /* Estilos responsive */
+  @media (max-width: 768px) {
+    .txt-type-1 {
+      font-size: 1.2rem; /* Cambiar el tamaño de la fuente para dispositivos más pequeños */
+    }
+  }
+  
