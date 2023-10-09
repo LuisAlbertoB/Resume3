@@ -38,4 +38,10 @@ Muestra el historial de confirmaciones del repositorio. El comando git log muest
 
 # Comandos implementados en la actividad.
 
-+ Primer comando
+Desde el directorio del proyecto:
+
++ git init
++ git add .
++ git commit -m "Primer commit"
++ git remote add origin https://github.com/LuisAlbertoB/Resume3.git
++ 
