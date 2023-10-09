@@ -26,3 +26,16 @@ Crea una nueva rama en el repositorio. El comando git branch crea una nueva rama
 
 ### git checkout:
 Cambia a una rama existente. El comando git checkout cambia a una rama existente. Este comando permite a los desarrolladores trabajar en diferentes versiones del proyecto al mismo tiempo.
+
+### git merge:
+Fusiona los cambios de una rama en otra.  El comando git merge fusiona los cambios de una rama en otra. Este comando es útil para combinar los cambios realizados por diferentes desarrolladores.
+
+### git reset:
+Restablece el estado del repositorio a una confirmación anterior. El comando git reset restablece el estado del repositorio a una confirmación anterior. Este comando puede ser útil para corregir errores o revertir los cambios realizados en el repositorio.
+
+### git log:
+Muestra el historial de confirmaciones del repositorio. El comando git log muestra el historial de confirmaciones del repositorio. Este comando puede ser útil para rastrear los cambios realizados en el proyecto.
+
+# Comandos implementados en la actividad.
+
++ Primer comando
